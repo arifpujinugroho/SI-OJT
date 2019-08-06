@@ -9,7 +9,7 @@
 
 ## SISTEM INFORMASI OJT SMK NEGERI 2 MAGELANG
 
-Dibuat bersama anak-anak RPL Club tahun 2019
+Dibuat bersama Siswa-Siswi RPL Club tahun 2019
 
 berikut cara install sistem :
 
