@@ -13,7 +13,10 @@ Dibuat bersama Siswa-Siswi RPL Club tahun 2019
 
 berikut cara install sistem :
 
-- Download [git bash](https://git-scm.com/downloads) dan install program tersebut.
+- Pastikan anda sudah mempunyai `composer` dikomputer, jika belum maka lakukan step dibawah ini :
+    Download [composer](https//) dan install program tersebut (required internet connection).
+- Pastikan anda sudah mempunyai `git bash` dikompter sebagai version controll, jika belum maka lakukan step dibawah ini :
+    Download [git bash](https://git-scm.com/downloads) dan install program tersebut.
 - Buka git bash dengan direktori di localhost('htdocx').
 - Ketikan kode berikut ini pada git bash :
 
