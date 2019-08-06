@@ -48,7 +48,7 @@ php artisan migrate
 - lalu buka file sistem OJT tersebut.
 
 
-##TIM Creator
+## TIM Creator
 - [Arif Puji Nugroho](https://github.com/arifpujinugroho).
 - [Ahmad Wildan Listyanto, S.Pd](https://github.com/).
 - Siswa/i RPL Club tahun 2019
