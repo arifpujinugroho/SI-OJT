@@ -53,5 +53,5 @@ php artisan migrate
 
 ## TIM Creator
 - [Arif Puji Nugroho](https://github.com/arifpujinugroho).
-- [Ahmad Wildan Listyanto, S.Pd](https://github.com/).
+- [Ahmad Wildan Listyanto, S.Pd](https://github.com/ahmadwildanlistyanto).
 - Siswa/i RPL Club tahun 2019
